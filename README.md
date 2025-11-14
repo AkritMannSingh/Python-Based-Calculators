@@ -47,37 +47,36 @@ This repository contains a collection of specialized calculator programs written
 
 ### Common Features Across All Calculators
 
-· ✅ Input Validation - Robust error handling
-· ✅ User-Friendly Interface - Clear prompts and menus
-· ✅ Precision Control - Accurate calculations
-· ✅ Cross-Platform - Works on Windows, macOS, Linux
-· ✅ No Dependencies - Pure Python implementation
+#### · ✅ Input Validation - Robust error handling
+#### · ✅ User-Friendly Interface - Clear prompts and menus
+#### · ✅ Precision Control - Accurate calculations
+#### · ✅ Cross-Platform - Works on Windows, macOS, Linux
+#### · ✅ No Dependencies - Pure Python implementation
 
 ## Specific Features
 
 ### Basic Calculator
 
-· Continuous calculation mode
-· Error handling for division by zero
-· Memory functions (store/recall/clear)
+#### · Continuous calculation mode
+#### · Memory functions (store/recall/clear)
 
 ### Marks Calculator
 
-· Multiple grading systems support
-· Customizable passing criteria
-· Detailed performance analytics
+#### · Multiple grading systems support
+#### · Customizable passing criteria
+#### · Detailed performance analytics
 
 ### Distance Converter
 
-· 10+ different unit conversions
-· Precision control options
-· Common reference distances
+#### · 10+ different unit conversions
+#### · Precision control options
+#### · Common reference distances
 
 ### Arithmetic Operations
 
-· Complex expression parsing
-· Step-by-step solution display
-· Support for parentheses and exponents
+#### · Complex expression parsing
+#### · Step-by-step solution display
+#### · Support for parentheses and exponents
 
 ## 📁 Project Structure
 
