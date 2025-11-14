@@ -100,22 +100,22 @@ python-based-calculators/
 
 ### Programming Concepts Covered
 
-· Python Fundamentals
-  · Input/output operations
-  · Conditional statements
-  · Loops and iterations
-  · Functions and modular programming
-  · Error handling and validation
-· Mathematical Implementation
-  · Algorithm design
-  · Formula translation to code
-  · Floating-point arithmetic
-  · Expression evaluation
+#### · Python Fundamentals
+ ##### · Input/output operations
+ #####  · Conditional statements
+ ##### · Loops and iterations
+ ##### · Functions and modular programming
+
+#### · Mathematical Implementation
+ ##### · Algorithm design
+ ##### · Formula translation to code
+ ##### · Floating-point arithmetic
+ ##### · Expression evaluation
 
 ### Perfect For
 
-· 🎯 Students - Learning programming and mathematics
-· 👩‍🏫 Educators - Classroom examples and assignments
-· 💼 Professionals - Quick calculation utilities
-· 🚀 Beginners - Python programming practice.
+#### · 🎯 Students - Learning programming and mathematics
+#### · 👩‍🏫 Educators - Classroom examples and assignments
+#### · 💼 Professionals - Quick calculation utilities
+#### · 🚀 Beginners - Python programming practice.
 
