@@ -14,41 +14,34 @@ This repository contains a collection of specialized calculator programs written
 
 #### Basic Arithmetic Calculator
 
-· Standard mathematical operations (+, -, ×, ÷)
-· Advanced functions (%, √, ^)
-· Memory operations and calculation history
-· User-friendly command-line interface
+##### · Standard mathematical operations (+, -, ×, ÷)
+##### · Memory operations and calculation history
+##### · User-friendly command-line interface
 
 ### `📊 mark_calc.py`
 
 #### Academic Marks Calculator
 
-· Total marks calculation
-· Percentage computation
-· Grade determination (A, B, C, etc.)
-· GPA conversion and division classification
-· Subject-wise performance analysis
+##### · Total marks calculation
+##### · Percentage computation
+##### · Grade determination (A, B, C, etc.)
+##### · Subject-wise performance analysis
 
 ### `📏 conversion_distance_calc.py`
 
 #### Distance Unit Converter
 
-· Kilometer ↔ Miles conversion
-· Meter ↔ Feet conversion
-· Centimeter ↔ Inches conversion
-· Real-time bidirectional conversion
-· Multiple unit system support
+##### · Kilometer ↔ Miles conversion
+##### · Meter ↔ Feet conversion
+##### · Centimeter ↔ Inches conversion
 
 ### `➕ arithmetic_operations.py`
 
 #### Advanced Arithmetic Operations
 
-· Complex mathematical expressions
-· Multiple operation sequences
-· Order of operations (PEMDAS/BODMAS)
-· Expression evaluation
-· Step-by-step calculation display.
-
+##### · Multiple operation sequences
+##### · Order of operations (BODMAS)
+##### · Expression evaluation
 
 ## 🛠️ Technical Features
 
