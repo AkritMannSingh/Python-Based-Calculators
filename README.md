@@ -37,8 +37,14 @@ This repository contains a collection of specialized calculator programs written
 #### Distance Unit Converter
 
 ##### · Kilometer ↔ Miles conversion
-##### · Meter ↔ Feet conversion
-##### · Centimeter ↔ Inches conversion
+##### · Meter ↔ ◀️ conversion
+##### · Centimeter ↔ Vice versa
+
+#### Mass Unit Convertor
+
+##### · Kilograms ↔Gram conversion
+##### · Grams ↔ Quintals conversion
+##### · ↔ Vice versa
 
 ## 🛠️ Technical Features
 
