@@ -10,7 +10,7 @@ This repository contains a collection of specialized calculator programs written
 
 ## 🎯 Available Calculators
 
-### `🧮 basic_calc.py`
+### `🧮 Arithmetic Calculators`
 
 #### Basic Arithmetic Calculator
 
@@ -18,30 +18,27 @@ This repository contains a collection of specialized calculator programs written
 ##### · Memory operations and calculation history
 ##### · User-friendly command-line interface
 
-### `📊 mark_calc.py`
+#### Advanced Arithmetic Operations
+
+##### · Multiple operation sequences
+##### · Order of operations (BODMAS)
+##### · Expression evaluation
 
 #### Academic Marks Calculator
 
 ##### · Total marks calculation
 ##### · Percentage computation
 ##### · Grade determination (A, B, C, etc.)
+
 ##### · Subject-wise performance analysis
 
-### `📏 conversion_distance_calc.py`
+### `📏 Conversion based Calculators`
 
 #### Distance Unit Converter
 
 ##### · Kilometer ↔ Miles conversion
 ##### · Meter ↔ Feet conversion
 ##### · Centimeter ↔ Inches conversion
-
-### `➕ arithmetic_operations.py`
-
-#### Advanced Arithmetic Operations
-
-##### · Multiple operation sequences
-##### · Order of operations (BODMAS)
-##### · Expression evaluation
 
 ## 🛠️ Technical Features
 
@@ -52,31 +49,6 @@ This repository contains a collection of specialized calculator programs written
 #### · ✅ Precision Control - Accurate calculations
 #### · ✅ Cross-Platform - Works on Windows, macOS, Linux
 #### · ✅ No Dependencies - Pure Python implementation
-
-## Specific Features
-
-### Basic Calculator
-
-#### · Continuous calculation mode
-#### · Memory functions (store/recall/clear)
-
-### Marks Calculator
-
-#### · Multiple grading systems support
-#### · Customizable passing criteria
-#### · Detailed performance analytics
-
-### Distance Converter
-
-#### · 10+ different unit conversions
-#### · Precision control options
-#### · Common reference distances
-
-### Arithmetic Operations
-
-#### · Complex expression parsing
-#### · Step-by-step solution display
-#### · Support for parentheses and exponents
 
 ## 📁 Project Structure
 
