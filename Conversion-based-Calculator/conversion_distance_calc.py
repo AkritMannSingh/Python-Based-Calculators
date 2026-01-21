@@ -28,8 +28,8 @@ elif conv == "centimetre" and unit == "miles":
 elif conv == "miles" and unit == "centimetre":
     print(f"The value in miles is: {value / 160934}")
 elif conv == "metre" and unit == "centimetre":
-    print(f"The value in metres is: {value / 100}")  # Fixed: cm to m is divide
+    print(f"The value in metres is: {value / 100}") 
 elif conv == "centimetre" and unit == "metre":
-    print(f"The value in centimetres is: {value * 100}")  # Fixed: m to cm is multiply
+    print(f"The value in centimetres is: {value * 100}") 
 else:
     print("Your value unit and conversion unit both are same or invalid.\nSorry! we cannot convert it.")
