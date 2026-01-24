@@ -16,4 +16,4 @@ print("Product =", mult)
 print("Division =", div)
 print("Modulus =", mod)
 
-print("==============================================")
+print("=" * 37)
