@@ -32,4 +32,4 @@ elif conv == "metre" and unit == "centimetre":
 elif conv == "centimetre" and unit == "metre":
     print(f"\nThe value in centimetres is: {value * 100}") 
 else:
-    print("\nYour value unit and conversion unit both are same or invalid.\nWe cannot convert it.")
+    print("\nYour value unit and conversion unit both are same or case issue (invalid).\nWe cannot convert it.")
